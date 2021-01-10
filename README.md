@@ -2,7 +2,7 @@
 
 The purpose of this simple Hello World program was to demonstrate the use of Visual Studio Code, Git, and GitHub together.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jNmCBRZEzBQ)
 
 # Development Environment
 
